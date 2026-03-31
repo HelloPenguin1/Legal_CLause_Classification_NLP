@@ -1,0 +1,17 @@
+Future Directions of the Project
+
+1. Build a baseline model using TF-IDF features and Logistic Regression to establish initial performance benchmarks.
+
+3. Implement Particle Swarm Optimization (PSO) to optimize model hyperparameters such as regularization strength and improve classification performance.
+
+4. Evaluate the model using appropriate metrics like Macro F1-score and per-class recall to ensure balanced performance across all classes.
+
+5. Analyze misclassifications to identify challenging classes and improve model robustness.
+
+6. Explore feature selection using PSO to reduce dimensionality and enhance model efficiency.
+
+7. Compare performance before and after optimization to demonstrate the effectiveness of soft computing techniques.
+
+8. Optionally experiment with advanced models like transformer-based architectures (e.g., BERT) for comparison, while keeping the primary focus on soft computing methods.
+
+9. Document results, observations, and improvements for final reporting and presentation.
