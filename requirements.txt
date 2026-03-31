@@ -1,0 +1,19 @@
+# Core numerical libraries
+numpy
+pandas
+
+
+# Visualization
+matplotlib
+seaborn
+
+# Notebook support
+jupyter
+ipykernel
+
+# Model persistence
+joblib
+
+# Optional (useful utilities)
+tqdm
+datasets
